@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ayesha and I own Sparkletronics
-- ♻️ I'm a full time Electrical Engineer working on Clean Tech Solutions
-- ✨ I also build pretty PCB wearables for Sparkletronics to promote STEAM education
+👋 Hi, I’m Ayesha
+✨ I build pretty PCB wearables for Sparkletronics to promote STEAM education
+♻️ And I'm a full time Electrical Engineer working on Clean Tech Solutions
